@@ -1,0 +1,58 @@
+﻿@model RealEstateListingApp.Models.User
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "UserProfile";
+
+    if (HttpContextAccessor.HttpContext.Session.GetString("UserRole") == "User")
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout1.cshtml";
+    }
+
+}
+
+@Html.Raw(TempData["EditMsg"])
+
+<div class="row mt-15">
+    <div class="col-md-4 col-sm-12 offset-md-4">
+        <h4 class="text-center">User Details</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-4">
+                UserName 
+            </dt>
+            <dd class="col-sm-8">
+               @Html.DisplayFor(model => model.UserName)
+            </dd>
+            <dt class="col-sm-4">
+                Password 
+            </dt>
+            <dd class="col-sm-8">
+              @Html.DisplayFor(model => model.Password)
+            </dd>
+            <dt class="col-sm-4">
+                Role 
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Role)
+            </dd>
+            <dt class="col-sm-4">
+                Contact 
+            </dt>
+            <dd class="col-sm-8">
+            @Html.DisplayFor(model => model.ContactInfo)
+            </dd>
+        </dl>
+        <br />
+        <div class="col-sm-12 text-center">
+            <a asp-action="EditProfile" asp-controller="User" asp-route-id="@Model?.UserId" class="btn btn-sm btn-outline-primary">Edit Profile</a>&nbsp;
+        </div>
+    </div>
+   
+</div>
+

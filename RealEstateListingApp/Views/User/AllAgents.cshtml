@@ -1,0 +1,79 @@
+﻿@* @model IEnumerable<RealEstateListingApp.Models.User> *@
+@model RealEstateListingApp.ViewModel.PaginatedPViewModel<User>
+
+
+@{
+    ViewData["Title"] = "AllAgents";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .card {
+        overflow: hidden;
+        transition: transform 0.3s ease;
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+</style>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="text-center">All Agents</h1>
+        </div>
+    </div>
+    <br /><br />
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-controller="User" asp-action="AllAgents" method="get" class="d-flex">
+                <div class="input-group input-group-sm">
+                    <input type="text" class="form-control form-control-lg" name="searchString" value="@Model.CurrentSearch" placeholder="Search..." aria-label="Search" aria-describedby="search-icon">
+                    <button type="submit" class="btn btn-secondary" id="search-icon">
+                        <i class="bi bi-search"></i>Search
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="row mt-5">
+        @foreach (var item in Model.Items)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <div class="card-body">
+                        <h6 class="card-title">
+                            <img class="img-profile rounded-circle"
+                                 src="~/img/undraw_profile.svg" style="height:60px; width:55px; border-radius:50%;" > &nbsp;@Html.DisplayFor(modelItem => item.UserName)
+                        </h6>
+                        <p class="card-text">Contact Information : @Html.DisplayFor(modelItem => item.ContactInfo)</p>
+                    </div>
+                </div>
+            </div>
+        }   
+    </div>
+</div>
+<div class="row mt-5">
+    <div class="col-md-12">
+        <div class="d-flex justify-content-center">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination">
+                    <li class="page-item @(Model.HasPreviousPage ? "" : "disabled")">
+                        <a class="page-link" asp-controller="User" asp-action="AllAgents" asp-route-pageNumber="@(Model.PageNumber - 1)" asp-route-pageSize="@Model.PageSize"> Previous </a>
+                    </li>
+                    @for (int i = 1; i <= Model.TotalPages; i++)
+                    {
+                        <li class="page-item @(i == Model.PageNumber ? "active" : "")">
+                            <a class="page-link" asp-controller="User" asp-action="AllAgents" asp-route-pageNumber="@i" asp-route-pageSize="@Model.PageSize">@i</a>
+                        </li>
+                    }
+                    <li class="page-item @(Model.HasNextPage ? "" : "disabled")">
+                        <a class="page-link" asp-controller="User" asp-action="AllAgents" asp-route-pageNumber="@(Model.PageNumber + 1)" asp-route-pageSize="@Model.PageSize"> Next </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+</div>

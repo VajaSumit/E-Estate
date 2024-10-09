@@ -1,0 +1,502 @@
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\appsettings.Development.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\appsettings.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.staticwebassets.runtime.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.exe
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.deps.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.runtimeconfig.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.pdb
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Azure.Core.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Azure.Identity.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Humanizer.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.CodeDom.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.csproj.AssemblyReference.cache
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.AssemblyInfoInputs.cache
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.AssemblyInfo.cs
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.RazorAssemblyInfo.cache
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.RazorAssemblyInfo.cs
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.RealEstateListingApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.RealEstateListingApp.props
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealEstateListingApp.props
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealEstateListingApp.props
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\scopedcss\bundle\RealEstateListingApp.styles.css
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEsta.9E0CADE4.Up2Date
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\refint\RealEstateListingApp.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.pdb
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.genruntimeconfig.cache
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\ref\RealEstateListingApp.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Common.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\appsettings.Development.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\appsettings.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.staticwebassets.runtime.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.exe
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.deps.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.runtimeconfig.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\RealEstateListingApp.pdb
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Azure.Core.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Azure.Identity.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Humanizer.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Common.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.CodeDom.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.csproj.AssemblyReference.cache
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.AssemblyInfoInputs.cache
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.AssemblyInfo.cs
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.csproj.CoreCompileInputs.cache
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.RazorAssemblyInfo.cache
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.RazorAssemblyInfo.cs
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets.build.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets.development.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.RealEstateListingApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.RealEstateListingApp.props
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealEstateListingApp.props
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealEstateListingApp.props
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\scopedcss\bundle\RealEstateListingApp.styles.css
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEsta.9E0CADE4.Up2Date
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\refint\RealEstateListingApp.dll
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.pdb
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\RealEstateListingApp.genruntimeconfig.cache
+E:\Education and working files\Asp.Net Core Projects\RealEstateListingApp\RealEstateListingApp\obj\Debug\net8.0\ref\RealEstateListingApp.dll

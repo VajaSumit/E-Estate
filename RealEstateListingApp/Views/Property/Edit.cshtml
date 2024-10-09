@@ -1,0 +1,163 @@
+﻿@model RealEstateListingApp.Models.Properties
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<style>
+    #existingImages {
+        display: flex;
+        gap: 10px; /* Add some spacing between images */
+    }
+
+    .fixed-size {
+        width: 100px; /* Set a fixed width */
+        height: 100px; /* Set a fixed height */
+        object-fit: cover; /* Ensure the image fits within the specified dimensions */
+    }
+
+    .existing-image {
+        position: relative;
+        display: inline-block;
+    }
+
+    .remove-btn {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        background-color: red; /* Adjust color as needed */
+        border: none;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 16px;
+        color: white;
+        cursor: pointer;
+    }
+
+</style>
+
+<h4>Edit Property</h4>
+<hr />
+<div class="row offset-2" style="justify-content:center">
+    <form asp-action="Edit" asp-controller="Property" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="PropertyID" />
+        <input type="hidden" asp-for="AgentId" />
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label asp-for="PropertyName" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                    <input asp-for="PropertyName" class="form-control" />
+                    <span asp-validation-for="PropertyName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label asp-for="Type" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                    <select asp-for="Type" class="form-control">
+                        <option value="">Select Property Type</option>
+                        <option value="Sell">Sell</option>
+                        <option value="Rent">Rent</option>
+                    </select>
+                    <span asp-validation-for="Type" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label asp-for="Address" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                    <textarea asp-for="Address" class="form-control form-control-lg"> </textarea>
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                    <textarea asp-for="Description" class="form-control form-control-lg"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label>Existing Images</label>
+                    <div id="existingImages" class="d-flex flex-row">
+                        @for (int i = 0; i < Model.Images.Count; i++)
+                        {
+                            <div class="existing-image position-relative" data-index="@i">
+                                <img src="@Model.Images[i]" width="100" class="img-thumbnail" />
+                                <button type="button" class="btn btn-danger btn-sm position-absolute remove-btn top-0 end-0" onclick="removeExistingImage(@i)">x</button>
+                                <input type="hidden" name="ExistingImages[]" value="@Model.Images[i]" />
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Images" class="control-label"></label>
+                    <input type="file" id="newImages" name="newImages" class="form-control" multiple onchange="previewImages()" />
+                    <div id="preview"></div>
+                    <span asp-validation-for="Images" class="text-danger"></span>
+                </div>
+            </div>
+
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                    <a asp-action="Index" asp-controller="Property" class="btn btn-sm btn-outline-info">Back to List</a>
+                </div>
+            </div>
+        </div>
+    </form>
+
+</div>
+<br />
+<br />
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function removeExistingImage(index) {
+            const existingImage = document.querySelector(`.existing-image[data-index='${index}']`);
+            existingImage.style.display = 'none';
+            existingImage.querySelector('input').name = 'RemovedImages';
+        }
+
+        function previewImages() {
+            var preview = document.getElementById('preview');
+            preview.innerHTML = '';
+            var files = document.getElementById('newImages').files;
+            for (var i = 0; i < files.length; i++) {
+                var file = files[i];
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    var img = document.createElement('img');
+                    img.src = e.target.result;
+                    img.width = 100;
+                    preview.appendChild(img);
+                };
+                reader.readAsDataURL(file);
+            }
+        }
+    </script>
+}

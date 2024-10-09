@@ -1,0 +1,174 @@
+﻿@model RealEstateListingApp.Models.Properties
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "PropertyDetails";
+    Layout = "_Layout";
+}
+<style>
+    .imgmain {
+        height: 400px;
+        width: 750px;
+        object-fit: cover;
+    }</style>
+
+<div class="page-heading header-text">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <span class="breadcrumb"><a href="#">Home</a>  /  Single Property</span>
+                <h3>Single Property</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="single-property section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="main-image">
+                    <img id="mainImage" src="@Model.Images.FirstOrDefault()" class="img-fluid imgmain" alt="Main Property Image" />
+                </div>
+
+                <div class="thumbnail-images mt-3 d-flex justify-content-center">
+                    @foreach (var image in Model.Images)
+                    {
+                        <img src="@image" class="img-thumbnail clickable-thumbnail" style="height: 60px; width: 60px; object-fit:cover;" alt="Property Image" />
+                    }
+                </div>
+
+                <div class="main-content mt-4">
+                    <span class="category">Property Type : @Model.Type</span>
+                    <h4>Property Name : @Model.PropertyName</h4>
+                    <p><strong>Property Type : </strong> @Model.Type</p>
+                    <p><strong>Price : </strong> @Model.Price</p>
+                    <p><strong>Address : </strong> @Model.Address</p>
+                    <p><strong>Description About Property : </strong> @Model.Description</p>
+                    <p><strong>Agent Name : </strong> @Model.Agent.UserName</p>
+                    <p><strong>Contact Information : </strong> @Model.Agent.ContactInfo</p>
+                </div>
+
+                <br />
+                <br />
+                @{
+                    if (HttpContextAccessor.HttpContext.Session.GetString("UserName") != null)
+                    {
+                        <button type="button" class="btn btn-outline-primary" id="InquiryBtn" data-bs-toggle="modal" data-bs-target="#InquiryModal"><span style="font-size:10px; padding:0px;">Inquiry</span></button>
+                    }
+                    else
+                    {
+                        <button type="button" class="btn btn-outline-primary" disabled id="InquiryBtn" data-bs-toggle="modal" data-bs-target="#InquiryModal"><span style="font-size:10px; padding:0px;">Inquiry</span></button>
+                    }
+                }
+               
+
+            </div>
+            <div class="col-lg-4">
+                <div class="info-table">
+                    <ul>
+                        <li>
+                            <img src="~/assets/images/info-icon-01.png" alt="" style="max-width: 52px;">    
+                            <h4>Property Type<br><span>@Model.Type</span></h4>
+                        </li>
+                        <li>
+                            <img src="~/assets/images/info-icon-02.png" alt="" style="max-width: 52px;">
+                            <h4>Agent<br><span>@Model.Agent.UserName</span></h4>
+                        </li>
+                        <li>
+                            <img src="~/assets/images/info-icon-03.png" alt="" style="max-width: 52px;">
+                            <h4>Price<br><span>@Model.Price.ToString("C")</span></h4>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="modal fade" id="InquiryModal" tabindex="-1" aria-labelledby="InquiryModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <form id="InquiryForm" >
+
+                <div class="modal-header">
+                    <h5 class="modal-title" id="InquiryModalLabel">Inquiry About Property</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control form-control-sm" value="@ViewBag.username" name="username" id="username" placeholder="User Name">
+                        <label for="username">User Name</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control form-control-sm" value="@ViewBag.agentname" name="agentname" id="agentname" placeholder="Agent Name">
+                        <label for="agentname">Agent Name</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input type="text" class="form-control form-control-sm" value="@ViewBag.propertytname" name="propertyname" id="propertyname" placeholder="Property Name">
+                        <label for="propertyname">Property Name</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <textarea class="form-control form-control-lg" id="message" name="message" placeholder="Message"></textarea>
+                        <label for="message">Message</label>
+                    </div>
+                    <!-- Add other fields as needed -->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+
+
+
+<script>
+
+    document.querySelectorAll('.clickable-thumbnail').forEach(function (thumbnail) {
+        thumbnail.addEventListener('click', function () {
+            document.getElementById('mainImage').src = this.src;
+        });
+    });
+
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#InquiryForm').submit(function (e) {
+            e.preventDefault();
+            var username = $('#username').val();
+            var agentname = $('#agentname').val();
+            var propertyname = $('#propertyname').val();
+            var message = $('#message').val();
+            var agentid = @Model.AgentId;
+            var propertyid = @Model.PropertyID;
+
+            console.log(username, agentname, propertyname, message, agentid, propertyid);
+
+            $.ajax({
+                url: '@Url.Action("InsertInquiry", "User")',
+                method: 'POST',
+                data: { username: username, agentname: agentname, propertyname: propertyname, message: message, agentid: agentid, propertyid: propertyid },
+                success: function () {
+                    alert("Inquiry Sent Successfully...");
+                    $('#InquiryModal').modal('hide');
+                },
+                error: function () {
+                    alert('Failed to send inquiry.');
+                }
+            });
+        });
+    });
+</script>
+}

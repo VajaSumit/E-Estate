@@ -1,0 +1,190 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link href="~/vendor2/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="~/assets/css/templatemo-villa-agency.css">
+    <link rel="stylesheet" href="~/assets/css/owl.css">
+    <link rel="stylesheet" href="~/assets/css/animate.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-LtrjvnR4/J65mzndA6t8DLRvY4FHgXj6tztqhDEHnE8A4w4O8TLs4FV6UrQSBmk7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+    <style>
+        .nav-item.dropdown:hover .dropdown-menu {
+            display: block;
+            margin-top: 0; /* remove the gap so it looks connected */
+        }
+
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+        }
+
+        .nav-item.dropdown:hover .dropdown-menu {
+            display: block;
+        }
+
+        .nav-link {
+            font-size: small;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="js-preloader" class="js-preloader">
+        <div class="preloader-inner">
+            <span class="dot"></span>
+            <div class="dots">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Preloader End ***** -->
+
+    <div class="sub-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-8">
+                    <ul class="info">
+                        <li><i class="fa fa-envelope"></i> RealEstate@company.com</li>
+                        <li><i class="fa fa-map"></i> Ahamadabad </li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <ul class="social-links">
+                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="https://x.com/minthu" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!-- ***** Logo Start ***** -->
+                        <a href="index.html" class="logo">
+                            <h1>RealEstate</h1>
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li><a asp-controller="User" asp-action="Index">Home</a></li>
+                            <li><a asp-controller="User" asp-action="BuyProperty">Buy</a></li>
+                            <li><a asp-controller="User" asp-action="RentProperty">Rent</a></li>
+                            <li><a asp-controller="User" asp-action="AllAgents">Agents</a></li>
+
+                            @{
+                                
+                                if (HttpContextAccessor.HttpContext.Session.GetString("UserName") != null)
+                                {
+                                    <li><a asp-controller="User" asp-action="Wishlists" title="wishlist" style="background-color:white;"><i class="fa fa-heart"></i>&nbsp;Wishlist</a></li>
+                                    <li><a asp-controller="User" asp-action="UserProfile"><i class="fa fa-user"></i>&nbsp;Accout</a></li>
+                                    <li>
+                                        <a data-bs-toggle="modal" style="background-color:white;" data-bs-target="#exampleModal">
+                                            <i class="fas fa-sign-out-alt fa-sm fa-fw"></i>
+                                        </a>
+                                    </li>
+                                }
+                                if(HttpContextAccessor.HttpContext.Session.GetString("UserName") == null)
+                                {
+                                    <li><a asp-controller="Login" asp-action="Login" style="background-color:white;">Login</a></li>
+                                    <li><a asp-controller="Login" asp-action="Register" style="background-color:white;color:black;">Register</a></li>
+                                }
+                            }
+                    
+                        </ul>
+                        <a class='menu-trigger'>
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+
+    <!-- ***** Header Area End ***** -->
+
+        @RenderBody()
+    
+
+    <footer>
+        <div class="container">
+            <div class="col-lg-8">
+                <p>
+                    Copyright © 2024 RealEState Co., Ltd. All rights reserved.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    Select "Logout" below if you are ready to end your current session.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <a class="btn btn-primary" asp-action="Logout" asp-controller="Login">Logout
+                       
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function () {
+            // Ensure that the modal opens when the logout button is clicked
+            $('[data-toggle="modal"]').click(function () {
+                var target = $(this).data('target');
+                $(target).modal('show');
+            });
+        });
+    </script>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="~/vendor2/jquery/jquery.min.js"></script>
+    <script src="~/vendor2/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/isotope.min.js"></script>
+    <script src="~/assets/js/owl-carousel.js"></script>
+    <script src="~/assets/js/counter.js"></script>
+    <script src="~/assets/js/custom.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <partial name="_ValidationScriptsPartial" />
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

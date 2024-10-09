@@ -1,0 +1,106 @@
+﻿@model RealEstateListingApp.ViewModel.PaginatedPViewModel<Properties>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>Properties</h1>
+
+@if (TempData["InsertMsg"] != null)
+{
+    <p class="text-success">@TempData["InsertMsg"]</p>
+}
+
+@if (TempData["DeleteMsg"] != null)
+{
+    <p class="text-success">@TempData["DeleteMsg"]</p>
+}
+@if (TempData["UpdateMsg"] != null)
+{
+    <p class="text-success">@TempData["UpdateMsg"]</p>
+}
+<br />
+<p>
+    <a class="btn btn-primary" asp-action="Create">Create New</a>
+</p>
+
+<br />
+
+<div class="col-md-4">
+    <form asp-controller="Property" asp-action="Index" method="get" class="d-flex">
+        <div class="input-group input-group-sm">
+            <input type="text" class="form-control" name="searchString" value="@Model.CurrentSearch" placeholder="Search..." aria-label="Search" aria-describedby="search-icon">
+            <button type="submit" class="btn btn-outline-secondary" id="search-icon">
+                <i class="bi bi-search"></i>
+            </button>
+        </div>
+    </form>
+</div>
+
+
+
+<br />
+<div class="table-responsive">
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="PropertyName" asp-route-sortOrder="@ViewBag.PropertyNameSortOrder">Property Name</a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Type" asp-route-sortOrder="@ViewBag.TypeSortOrder">Type</a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Price" asp-route-sortOrder="@ViewBag.PriceSortOrder">Price</a>
+                </th>
+                <th>
+                    <a asp-action="Index" asp-route-sortColumn="Agent.UserName" asp-route-sortOrder="@ViewBag.CreatedBySortOrder">Created By</a>
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.PropertyName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Type)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Agent.UserName)</td>
+                    <td>
+                        <div class="btn-group btn-group-sm" role="group">
+                            <a class="btn btn-outline-info" asp-action="Edit" asp-controller="Property" asp-route-id="@item.PropertyID">
+                                <i class="fas fa-edit"></i>
+                            </a>
+                            <a class="btn btn-outline-secondary" asp-action="Details" asp-controller="Property" asp-route-id="@item.PropertyID">
+                                <i class="fas fa-info-circle"></i>
+                            </a>
+                            <a class="btn btn-outline-danger" asp-action="Delete" asp-controller="Property" asp-route-id="@item.PropertyID">
+                                <i class="fas fa-trash-alt"></i>
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="d-flex justify-content-center">
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            <li class="page-item @(Model.HasPreviousPage ? "" : "disabled")">
+                <a class="page-link" asp-action="Index" asp-route-pageNumber="@(Model.PageNumber - 1)" asp-route-pageSize="@Model.PageSize">Previous</a>
+            </li>
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(i == Model.PageNumber ? "active" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-pageNumber="@i" asp-route-pageSize="@Model.PageSize">@i</a>
+                </li>
+            }
+            <li class="page-item @(Model.HasNextPage ? "" : "disabled")">
+                <a class="page-link" asp-action="Index" asp-route-pageNumber="@(Model.PageNumber + 1)" asp-route-pageSize="@Model.PageSize">Next</a>
+            </li>
+        </ul>
+    </nav>
+</div>

@@ -1,0 +1,104 @@
+﻿@model RealEstateListingApp.Models.Properties
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+
+<div class=" justify-content-center">
+    <h4>Create Property</h4>
+    </di>
+    <hr /><br />
+
+    <div class="row offset-2" style="justify-content:center">
+        <form asp-action="Create" asp-controller="Property" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="PropertyName" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                        <input asp-for="PropertyName" class="form-control" />
+                        <span asp-validation-for="PropertyName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label asp-for="Type" class="control-label"></label><span style="display:inline;" class="text-danger">*</span>
+                        <select asp-for="Type" class="form-control">
+                            <option value="">Select Property Type</option>
+                            <option value="Sell">Sell</option>
+                            <option value="Rent">Rent</option>
+                        </select>
+                        <span asp-validation-for="Type" class="text-danger"></span>
+                    </div>
+                </div>
+                </<div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label asp-for="Address" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                                <textarea asp-for="Address" class="form-control form-control-lg "> </textarea>
+                                <span asp-validation-for="Address" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label asp-for="Price" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                                <input asp-for="Price" class="form-control" />
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label asp-for="Description" class="control-label"></label> <span style="display:inline;" class="text-danger">*</span>
+                                <textarea asp-for="Description" class="form-control form-control-lg"> </textarea>
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label asp-for="Images" class="control-label"></label>
+                                <input asp-for="Images" class="form-control" type="file" multiple />
+                                <span asp-validation-for="Images" class="text-danger"></span>
+                            </div><br />
+                            <div id="image-preview" class="row"></div>
+                        </div>
+                    </div>
+                    <br />
+                    <br /><br />
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                                <a asp-action="Index" asp-controller="Property" class="btn btn-sm btn-outline-info">Back to List</a>
+                            </div>
+                        </div>
+                    </div>
+        </form>
+
+    </div>
+    <br />
+
+    @section Scripts {
+        <script>
+            document.querySelector('input[type="file"]').addEventListener('change', function (event) {
+                const files = event.target.files;
+                const previewContainer = document.getElementById('image-preview');
+                previewContainer.innerHTML = '';
+
+                for (const file of files) {
+                    const reader = new FileReader();
+                    reader.onload = function (e) {
+                        const imgElement = document.createElement('img');
+                        imgElement.src = e.target.result;
+                        imgElement.classList.add('img-thumbnail', 'col-md-3');
+                        previewContainer.appendChild(imgElement);
+                    };
+                    reader.readAsDataURL(file);
+                }
+            });
+        </script>
+    }
